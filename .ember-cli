@@ -1,5 +1,6 @@
 {
   "platform": "ios",
-  "reloadUrl": "http://localhost:4400",
+  "port":"4400",
+  "reloadUrl": "http://localhost",
   "disableAnalytics": false
 }
